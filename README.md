@@ -1,55 +1,105 @@
-📊 Module 2 – Advanced Excel
+# 📊 Module 2 – Advanced Excel
 
 This repository contains my learning and hands-on practice from Module 2 – Advanced Excel, focusing on real-world data analysis techniques.
 
-🚀 Topics Covered
-✅ Predefined Functions
-✅ Advanced Excel Concepts
-✅ Text Functions
-✅ Lookup Functions (VLOOKUP, HLOOKUP, XLOOKUP)
-✅ Lookup & Error Functions (IFERROR, etc.)
-✅ Statistical Functions
-✅ ANOVA (Single Factor & Two-Factor Analysis) 🔥
-✅ Charts & Data Visualization 📈
-📌 Key Learnings
-Applied various Excel functions to solve real-world problems
-Performed data analysis using lookup and statistical techniques
-Understood ANOVA concepts (SS, df, MS, F, P-value)
-Interpreted statistical results to make data-driven decisions
-Improved efficiency using advanced Excel formulas
-Built strong understanding of data handling and processing
-📂 Files Included
-Excel practice files
-Function-based examples
-Sample datasets
-ANOVA analysis sheets
-💡 Tools Used
-Microsoft Excel
-Data Analysis ToolPak
-📊 Analysis Performed
-🔹 Salary Analysis using ANOVA
-🔹 Location-wise comparison
-🔹 Gender-based analysis
-🔹 Data visualization using charts
+---
 
-📈 Outcome
+## 🚀 Topics Covered
+
+* ✅ Predefined Functions
+* ✅ Advanced Excel Concepts
+* ✅ Text Functions
+* ✅ Lookup Functions (VLOOKUP, HLOOKUP, XLOOKUP)
+* ✅ Lookup & Error Functions (IFERROR, etc.)
+* ✅ Statistical Functions
+* ✅ ANOVA (Single Factor & Two-Factor Analysis) 🔥
+* ✅ Charts & Data Visualization 📈
+* ✅ **Macros & Automation (Basic VBA)** ⚡
+
+---
+
+## 📌 Key Learnings
+
+* Applied various Excel functions to solve real-world problems
+* Performed data analysis using lookup and statistical techniques
+* Understood ANOVA concepts (SS, df, MS, F, P-value)
+* Interpreted statistical results to make data-driven decisions
+* Automated repetitive tasks using Macros
+* Improved efficiency using advanced Excel formulas
+* Built strong understanding of data handling and processing
+
+---
+
+## 📂 Files Included
+
+* Excel practice files
+* Function-based examples
+* Sample datasets
+* ANOVA analysis sheets
+* **Macro-enabled Excel files (.xlsm)**
+
+---
+
+## 💡 Tools Used
+
+* Microsoft Excel
+* Data Analysis ToolPak
+* **VBA (Visual Basic for Applications)**
+
+---
+
+## 📊 Analysis Performed
+
+* 🔹 Salary Analysis using ANOVA
+* 🔹 Location-wise comparison
+* 🔹 Gender-based analysis
+* 🔹 Data visualization using charts
+* 🔹 **Automation of repetitive tasks using Macros**
+
+---
+
+## ⚡ Macros & Automation
+
+* Created basic Macros to automate repetitive Excel tasks
+* Recorded Macros for quick data formatting and processing
+* Improved workflow efficiency using automation
+* Introduced to VBA for customizing Excel operations
+
+---
+
+## 📈 Outcome
 
 This module helped me strengthen my Excel skills, especially in:
 
-Data Analysis
-Statistical Thinking
-Automation & Problem-Solving
+* Data Analysis
+* Statistical Thinking
+* Automation & Problem-Solving
 
+---
 
-💯 Highlights
-✔ Performed Single Factor ANOVA
-✔ Performed Two-Factor ANOVA (With & Without Replication)
-✔ Created insightful charts for decision-making
+## 💯 Highlights
 
+* ✔ Performed Single Factor ANOVA
+* ✔ Performed Two-Factor ANOVA (With & Without Replication)
+* ✔ Created insightful charts for decision-making
+* ✔ **Automated tasks using Excel Macros**
 
-🚀 Future Improvements
-Power BI Integration
+---
+
+## 🚀 Future Improvements
+
+* Power BI Integration
+* Advanced VBA & Automation
+
+---
+
+✨ *More data analytics projects coming soon...*
+
+---
 Advanced Analytics Projects
+
+
+
 <img width="563" height="164" alt="{A8C35C1D-5875-4B0B-9571-4E11DE9DF7EA}" src="https://github.com/user-attachments/assets/1f26a1b9-d018-4240-95d9-ce89b21c0e5f" />
 <img width="1374" height="535" alt="{A4316310-2526-460D-BB3D-147E19BCF1E3}" src="https://github.com/user-attachments/assets/8a8007e7-0dfb-45ae-ad85-0ce76b50a59a" />
 <img width="1628" height="774" alt="{65938DB9-08D9-4D66-A628-DFC7F6F2CFAF}" src="https://github.com/user-attachments/assets/6aa2e64e-8d69-4c78-bddd-313f8bacb50a" />
